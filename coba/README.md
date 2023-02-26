@@ -2,4 +2,6 @@
 ## Coba tugas 2
 ### Soal Eksplorasi 
 
-Belajar tentang version control (Git) Apapun itu pokok coba coba 
+
+Mempelajari hal baru tentang version control (Git) 
+
